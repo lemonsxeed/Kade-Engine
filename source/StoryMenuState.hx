@@ -32,7 +32,7 @@ class StoryMenuState extends MusicBeatState
 	public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true];
 
 	var weekCharacters:Array<Dynamic> = [
-		['dad', 'bf', 'gf']
+		['kapi', 'bf', 'gf']
 	];
 
 	var weekNames:Array<String> = [
